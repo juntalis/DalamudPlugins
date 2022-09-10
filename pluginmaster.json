@@ -13,11 +13,11 @@
             "utility"
         ],
         "DalamudApiLevel": 7,
-        "DownloadLinkInstall": "https://github.com/juntalis/DalamudPlugins/raw/master/plugins/Islander/latest.zip",
+        "DownloadLinkInstall": "https://github.com/juntalis/DalamudPlugins/raw/main/plugins/Islander/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/juntalis/DalamudPlugins/raw/master/plugins/Islander/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/juntalis/DalamudPlugins/raw/master/plugins/Islander/latest.zip",
+        "DownloadLinkTesting": "https://github.com/juntalis/DalamudPlugins/raw/main/plugins/Islander/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/juntalis/DalamudPlugins/raw/main/plugins/Islander/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1662818169"
     }
