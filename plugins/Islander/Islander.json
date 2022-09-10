@@ -3,10 +3,14 @@
   "Name": "Island Optimizer",
   "InternalName": "Islander",
   "AssemblyVersion": "0.5.0.0",
-  "Description": "",
+  "Description": "Plugin to optimize workshop production.",
   "ApplicableVersion": "any",
-  "Tags": [],
+  "RepoUrl": "https://github.com/juntalis/IslandOptimizerPlugin",
+  "Tags": [
+    "utility"
+  ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "Punchline": "Plugin to optimize workshop production."
+  "Punchline": "Plugin to optimize workshop production.",
+  "Changelog": ""
 }
